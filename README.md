@@ -1,6 +1,6 @@
 # Flight-Radar-Redux-Toolkit-Thunk
 
-Geliştirdiğim Uçuş Radarı uygulaması, kullanıcıların belirlenen bölge üzerinden anlık uçuşları takip etmesini ve detaylı uçuş bilgilerine ulaşmasını sağlıyor. Uygulama, kullanıcıların Türkiye'deki uçuşların rotalarını, kalkış ve varış terminallerini ve havalimanlarını anlık olarak görüntülemesine olanak tanıyor. Kullanıcılar, uçak detay sayfasından uçak fotoğraflarını, kalkış ve varış saatlerini, olası gecikmeleri görüntüleyerek uçuşlarla ilgili bilgilere ulaşabiliyor. Redux Toolkit ve React-Redux kullanılarak uygulamanın durumu etkin bir şekilde yönetilirken, anlık veri akışına ve kullanıcı etkileşimlerine yanıt veriliyor.
+Uçuş Radarı uygulaması, kullanıcıların belirlenen bölge üzerinden anlık uçuşları takip etmesini ve detaylı uçuş bilgilerine ulaşmasını sağlıyor. Uygulama, kullanıcıların Türkiye'deki uçuşların rotalarını, kalkış ve varış terminallerini ve havalimanlarını anlık olarak görüntülemesine olanak tanıyor. Kullanıcılar, uçak detay sayfasından uçak fotoğraflarını, kalkış ve varış saatlerini, olası gecikmeleri görüntüleyerek uçuşlarla ilgili bilgilere ulaşabiliyor. Redux Toolkit ve React-Redux kullanılarak uygulamanın durumu etkin bir şekilde yönetilirken, anlık veri akışına ve kullanıcı etkileşimlerine yanıt veriliyor.
 
 # Projede Kullnılan Araçlar ve Teknolojiler
 
